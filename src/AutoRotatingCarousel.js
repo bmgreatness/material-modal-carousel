@@ -162,8 +162,8 @@ class AutoRotatingCarousel extends Component {
     const landscape = mobile && landscapeProp
     const transitionDuration = { enter: duration.enteringScreen, exit: duration.leavingScreen }
     const hasMultipleChildren = children.length != null
-    const canGoBack = slideIndex !== 0;
-    const canGoForward = slideIndex !== children.length - 1;
+    const canGoBack = this.state.slideIndex !== 0
+    const canGoForward = this.state.slideIndex !== children.length - 1
 
     const carousel = (
       <Carousel

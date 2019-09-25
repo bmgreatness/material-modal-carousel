@@ -4,6 +4,7 @@
   "description": "Material-UI based carousel",
   "main": "lib/index.js",
   "scripts": {
+    "lint": "standard --fix",
     "build": "babel src -d lib",
     "prepublish": "npm run build",
     "styleguide": "styleguidist server",
