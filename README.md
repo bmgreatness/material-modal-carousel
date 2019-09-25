@@ -1,11 +1,11 @@
 # Material AutoRotatingCarousel
 
-[![Build Status](https://travis-ci.org/TeamWertarbyte/material-auto-rotating-carousel.svg?branch=next)](https://travis-ci.org/bongani-m/@bmgreatness/material-carousel)
+
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 So you wrote a great app and deployed it and everything. But how do you introduce new users to your app? Well, the Material design guidelines have a solution: Displaying the top benefits in a beautiful [auto-rotating carousel](https://material.io/design/communication/onboarding.html#top-user-benefits-model)!
 
-This project implements such a carousel for [Material-UI](https://material-ui-next.com). Visit [the styleguide](https://next.mui.wertarbyte.com/#material-auto-rotating-carousel) for an interactive demo.
+This project implements such a carousel for [Material-UI](https://material-ui-next.com). 
 
 ![Demo](demo.gif)
 
@@ -49,5 +49,3 @@ npm i --save react-swipeable-views
 ## License
 
 The files included in this repository are licensed under the MIT license.
-
-[legacy]: https://github.com/TeamWertarbyte/material-auto-rotating-carousel/tree/legacy
