@@ -1,6 +1,6 @@
 # Material AutoRotatingCarousel
 
-
+[![Build Status](https://www.travis-ci.org/bmgreatness/material-modal-carousel.svg?branch=master)](https://www.travis-ci.org/bmgreatness/material-modal-carousel)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 So you wrote a great app and deployed it and everything. But how do you introduce new users to your app? Well, the Material design guidelines have a solution: Displaying the top benefits in a beautiful [auto-rotating carousel](https://material.io/design/communication/onboarding.html#top-user-benefits-model)!
