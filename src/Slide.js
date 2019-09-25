@@ -152,11 +152,11 @@ Slide.propTypes = {
   /**
    * Subtitle of the slide.
    */
-  subtitle: PropTypes.object,
+  subtitle: PropTypes.any,
   /**
    * Title of the slide.
    */
-  title: PropTypes.object,
+  title: PropTypes.any,
   /**
    * If `true`, the screen width and height is filled.
    * @ignore
