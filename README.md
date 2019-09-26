@@ -1,5 +1,11 @@
 # Material AutoRotatingCarousel
 
+# NOTE THIS IS A FORK OF: [TeamWertarbyte's Auto Rotating Carousel](https://github.com/TeamWertarbyte/material-auto-rotating-carousel)
+
+# This was created to support:
+- Greater Flexibility for Title and Subtitle uses
+- Arrows that hide if they are the first or last
+
 [![Build Status](https://www.travis-ci.org/bmgreatness/material-modal-carousel.svg?branch=master)](https://www.travis-ci.org/bmgreatness/material-modal-carousel)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
