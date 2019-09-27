@@ -219,9 +219,8 @@ class AutoRotatingCarousel extends Component {
                 })}
               >
                 {label && <Button
-                  disabled={modulo(this.state.slideIndex, children.length) !== children.length - 1}
                   variant='contained'
-                  onClick={onStart}
+                  onClick={modulo(this.state.slideIndex, children.length) !== children.length - 1 ? this.increaseIndex : onStart}
                   {...ButtonProps}
                 >
                   {label}
